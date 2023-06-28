@@ -1,1 +1,5 @@
-# 08-js-dom-condicoes
+# #08 - JS: DOM e Condições
+
+### Samuel Caires
+
+[comment]: <> (Samuel da Silva Caires)
